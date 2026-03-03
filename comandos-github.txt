@@ -1,0 +1,1 @@
+Oque e github e um serciço que serve para armazenar repositorios git.

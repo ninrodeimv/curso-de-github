@@ -8,6 +8,10 @@ Git Merge ( junta dyas brunchs ou mais)
 Git Clone (clona uma brunch)
 Git add ( adiciona uma branch)
 Git config --global user.name ( informa o usuário)
+Git push -u origin main (passa os arquivos do com  putador pro github)
+Git pull -u origin main (traz arquivos do github pro computador
+Q comando para sair do git log
+
 
 
 

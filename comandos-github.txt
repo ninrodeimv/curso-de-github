@@ -1,7 +1,17 @@
 Oque e github e um serciço que serve para armazenar repositorios git.
 
+Git branch (cria uma nova branch)
+Git Log (Mostra em qual branch esta)
+Git Status (Mostra se tem pendencias ou não)
+Git checkout (muda para um brunch)
+Git Merge ( junta dyas brunchs ou mais)
+Git Clone (clona uma brunch)
+Git add ( adiciona uma branch)
+Git config --global user.name ( informa o usuário)
 
 
+
+painel de controles -> Gerenciador de credenciais -> Gerenciador de windows
 
 
 

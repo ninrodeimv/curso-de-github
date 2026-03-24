@@ -4,13 +4,16 @@ Git branch (cria uma nova branch)
 Git Log (Mostra em qual branch esta)
 Git Status (Mostra se tem pendencias ou não)
 Git checkout (muda para um brunch)
-Git Merge ( junta dyas brunchs ou mais)
+Git Merge (junta dyas brunchs ou mais)
 Git Clone (clona uma brunch)
-Git add ( adiciona uma branch)
-Git config --global user.name ( informa o usuário)
+Git add (adiciona uma branch)
+Git config --global user.name (informa o usuário)
+Git config --global user.email (qual email esta logado)
 Git push -u origin main (passa os arquivos do com  putador pro github)
 Git pull -u origin main (traz arquivos do github pro computador
+Git remote add origin (envia para a pasta remota)
 Q comando para sair do git log
+
 
 
 
